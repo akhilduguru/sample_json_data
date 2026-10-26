@@ -1,0 +1,15 @@
+{
+  "valid": true,
+  "assetId": "AST-00042",
+  "name": "Zebra TC58",
+  "serialNumber": "23123456789012",
+  "companyId": "C-101",
+  "companyName": "Cipherhub",
+  "purchaseDate": "2025-03-15",
+  "warrantyEndDate": "2027-03-14",
+  "details": {
+    "model": "TC58",
+    "location": "Warehouse A",
+    "condition": "Good"
+  }
+}

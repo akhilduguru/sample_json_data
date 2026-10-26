@@ -1,0 +1,11 @@
+{
+  "valid": true,
+  "assetId": "AST-00007",
+  "name": "Zebra ZD421 Printer",
+  "serialNumber": "55123400007",
+  "companyId": "C-101",
+  "companyName": "Cipherhub",
+  "purchaseDate": "2023-01-10",
+  "warrantyEndDate": "2025-01-09",
+  "details": { "model": "ZD421", "location": "Packing Area", "condition": "Needs service" }
+}

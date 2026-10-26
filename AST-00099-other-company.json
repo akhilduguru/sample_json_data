@@ -1,0 +1,11 @@
+{
+  "valid": true,
+  "assetId": "AST-00099",
+  "name": "Zebra TC22",
+  "serialNumber": "77123400099",
+  "companyId": "C-202",
+  "companyName": "Other Co",
+  "purchaseDate": "2025-06-01",
+  "warrantyEndDate": "2027-05-31",
+  "details": { "model": "TC22", "location": "Branch 2" }
+}
